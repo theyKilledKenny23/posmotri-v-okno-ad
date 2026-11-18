@@ -201,7 +201,7 @@ ol {
   color: rgb(255 255 255 / 0.7);
 }
 
-.search-form__textfield:focus-visible{
+.search-form__textfield:focus-visible {
   outline: 1px solid #fff;
   outline-offset: 2px;
 }
